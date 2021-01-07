@@ -10,16 +10,15 @@
 
 <p align="left"> 
  Tenho 19 anos, moro em SP e sou desenvolvedor <strong> FullStack </strong>.<br>
- Trabalho como Desenvolvedora Jr na Visual Mix e finalizo o ensino médio técnico em informática esse ano (ITB)
  Em busca da primeira oportunidade na área de desenvolvedor, curso Análise e Desenvolvimento de Sistemas na FIAP
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML, CSS3, Python, JavaScript, React JS, React Native, NodeJS, ExpressJS, SQL ... </strong>
+  🦄 Skills: <strong>HTML, CSS3, Python, JavaScript, React JS, React Native, NodeJS, ExpressJS, SQL</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> VS Code, Figma, Git, GitHub, Insomnia, Trello ...</strong>
+  💼 Ferramentas: <strong> VS Code, Figma, Git, GitHub, Insomnia, Trello</strong>
 </p>
 
 <p align="left">
